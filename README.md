@@ -1,48 +1,48 @@
 <div align="center">
 
-# 💫 Hi, I'm Mohammad Sadi
+# � Hello, I'm Mohammad Sadi!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Building+Amazing+Web+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Creative+Problem+Solver+%F0%9F%8E%AF;Web+Developer+%26+Designer;Passionate+About+Innovation)](https://git.io/typing-svg)
 
-```typescript
-const whoami = {
-    name: "Mohammad Sadi",
-    role: "Full Stack Developer 💻",
-    tech: ["React", "Next.js", "TypeScript", "Node.js", "MongoDB"],
-    passion: "Turning ideas into reality ✨"
-};
-```
+### 🚀 Building Digital Experiences That Matter
+
+*Transforming ideas into beautiful, functional websites*
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ What I Work With
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Frontend & Design
+![React](https://img.shields.io/badge/React-FF6B35?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FF8C42?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-FFA07A?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-FFB84D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFC857?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD166?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & More
+![Docker](https://img.shields.io/badge/Docker-FFDE59?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFE66D?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 💌 Get In Touch
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-9D4EDD?style=for-the-badge&logoColor=white)](https://portfolio-new-kappa-three.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sadi-6a441b2b4/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earth.ahsan@gmail.com)
+### Let's create something amazing together!
+
+[![Portfolio](https://img.shields.io/badge/🌟_Visit_My_Portfolio-FF6B35?style=for-the-badge&logoColor=white)](https://portfolio-new-kappa-three.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-FF8C42?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sadi-6a441b2b4/)
+[![Email](https://img.shields.io/badge/Send_an_Email-FFA07A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earth.ahsan@gmail.com)
 
 </div>
 
@@ -50,6 +50,8 @@ const whoami = {
 
 <div align="center">
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+### 🌟 *"Creating beautiful solutions, one project at a time"* 🌟
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20&height=100&section=footer)
 
 </div>
